@@ -86,6 +86,7 @@ const skills = [
 
 const repoInfo = getRepoInfo();
 const githubLink = document.getElementById("githubLink");
+const themeToggle = document.getElementById("themeToggle");
 const skillsList = document.getElementById("skillsList");
 const skillTitle = document.getElementById("skillTitle");
 const skillDescription = document.getElementById("skillDescription");
@@ -99,6 +100,7 @@ githubLink.href = repoInfo
 
 renderSkillList();
 selectSkill(skills[0]);
+initTheme();
 
 function renderSkillList() {
   skillsList.innerHTML = "";
@@ -318,4 +320,24 @@ function getRepoInfo() {
   }
 
   return { owner, repo };
+}
+
+function initTheme() {
+  const saved = localStorage.getItem("codex-theme");
+  if (saved) {
+    setTheme(saved);
+  } else {
+    const prefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
+    setTheme(prefersLight ? "light" : "dark");
+  }
+
+  themeToggle.addEventListener("click", () => {
+    const next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    setTheme(next);
+    localStorage.setItem("codex-theme", next);
+  });
+}
+
+function setTheme(theme) {
+  document.documentElement.setAttribute("data-theme", theme);
 }
