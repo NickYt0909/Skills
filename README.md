@@ -10,6 +10,9 @@ This repository contains a set of focused skills designed to assist with common 
 
 Install: place these skill folders under `$CODEX_HOME/skills/public` (or symlink this repo there).
 
+Optional: enable the pre-commit hook to keep `docs/skills.json` in sync:
+`git config core.hooksPath scripts/git-hooks`
+
 ## Skills
 
 ### 📝 App Store Changelog
